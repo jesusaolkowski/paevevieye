@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://exeeyahyoo.bearhol.es/sitemap.xml
